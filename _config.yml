@@ -21,12 +21,12 @@ timezone: America/Fortaleza
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Teologia # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Estudos teológicos # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Estudos teologicos.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://jocile.com/teologia"
@@ -44,8 +44,8 @@ social:
   email: jocilecam@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jocileserra # change to your twitter homepage
     - https://github.com/jocile # change to your github homepage
+    - https://twitter.com/jocileserra # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/jocil%C3%A9-serra-56298838
@@ -144,7 +144,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
