@@ -63,7 +63,7 @@ Como o teor da carta é um contexto de perceguição, o autor pode ter se omitid
 - O livro era obra de um apóstolo ou ao menos de alguém
 que tivesse estado em contato direto com algum dos apóstolos?
 
-> Desconhece-se a paternidade literária deste livro. sugeriram-se vários nomes, como Lucas, Bernabé, Apolos, Priscila e Paulo. A maioria dos estudiosos não acreditam que Paulo tenha sido o autor, já que o estilo de redação empregado em Hebreus é algo diferente do das epístolas do Paulo. Além disso, Paulo se identifica em suas cartas e apela a sua autoridade como apóstolo, enquanto que o escritor de Hebreus nunca dá seu nome e, em busca de autoridade, apela às testemunhas presenciais do ministério do Jesus. Entretanto, o autor de Hebreus evidentemente conhecia bem ao Paulo. É provável que Hebreus fora escrito por um dos colaboradores do Paulo, que com freqüência ouviu seu prédica.<^1>
+> Desconhece-se a paternidade literária deste livro. sugeriram-se vários nomes, como Lucas, Bernabé, Apolos, Priscila e Paulo. A maioria dos estudiosos não acreditam que Paulo tenha sido o autor, já que o estilo de redação empregado em Hebreus é algo diferente do das epístolas do Paulo. Além disso, Paulo se identifica em suas cartas e apela a sua autoridade como apóstolo, enquanto que o escritor de Hebreus nunca dá seu nome e, em busca de autoridade, apela às testemunhas presenciais do ministério do Jesus. Entretanto, o autor de Hebreus evidentemente conhecia bem ao Paulo. É provável que Hebreus fora escrito por um dos colaboradores do Paulo, que com freqüência ouviu seu prédica.[^1]
 
 ## Histórico
 
