@@ -1,5 +1,5 @@
 ---
-title:  "As Parábolas"
+title:  "Diagrama dos tipos de parábolas"
 author: Prof. Jocilé Serra
 date: 2022-08-06 18:20:00 -0300
 categories: [TEOLOGIA, BIBLIOLOGIA]
@@ -8,7 +8,7 @@ mermaid: true
 ---
 **Na parábola, a imagem do mundo visível é emprestada e se faz acompanhar de uma verdade do mundo invisível ou espiritual. As parábolas são os Portadores, os canais da doutrina e da verdade espiritual.**
 
-# Diagrama dos tipos de parábolas
+## Diagrama sobre os tipos de parábolas
 
 ```mermaid
 graph LR
@@ -29,4 +29,5 @@ graph LR
 
 ## Referência
 
-LOCKYER Herbert. **Todas as PARÁBOLAS da Bíblia** - Uma análise detalhada de todas as parábolas das Escrituras. Ed. Vida, São Paulo, 2006.
+* LOCKYER Herbert. [**Todas as PARÁBOLAS da Bíblia**](https://www.slideshare.net/Dersubuuk/173811-todas-as-parbolas-da-biblia) - Uma análise detalhada de todas as parábolas das Escrituras. Ed. Vida, São Paulo, 2006.
+* [Tipos de parábolas]({% post_url _2022-10-21-tipos-de-parabolas %})
