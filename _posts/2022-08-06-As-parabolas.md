@@ -30,4 +30,4 @@ graph LR
 ## Referência
 
 * LOCKYER Herbert. [**Todas as PARÁBOLAS da Bíblia**](https://www.slideshare.net/Dersubuuk/173811-todas-as-parbolas-da-biblia) - Uma análise detalhada de todas as parábolas das Escrituras. Ed. Vida, São Paulo, 2006.
-* [Tipos de parábolas]({% post_url _2022-10-21-tipos-de-parabolas %})
+* [Tipos de parábolas]({% post_url 2022-10-21-tipos-de-parabolas %})
