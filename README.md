@@ -1,10 +1,10 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# Tema Chirpy [![Versão Gem](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![Licença GitHub](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+Ao instalar o tema [**Chirpy**][chirpy] através de [RubyGems.org][gem], o Jekyll só pode ler arquivos nas pastas `_includes`, `_layout`, `_sass` e `assets`, bem como uma pequena parte das opções do arquivo `_config.yml` do gem do tema. Se você já instalou este gem de tema, pode usar o comando `bundle info --path jekyll-theme-chirpy` para localizar esses arquivos.
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+A organização Jekyll afirma que isso é para deixar a bola no campo do usuário, mas isso também resulta em usuários não sendo capazes de desfrutar da experiência pronta para uso ao usar temas ricos em recursos.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+Para usar totalmente todos os recursos do **Chirpy**, você precisa copiar os outros arquivos críticos do gem do tema para o seu site Jekyll. A seguir está uma lista de alvos:
 
 ```shell
 .
@@ -15,32 +15,48 @@ To fully use all the features of **Chirpy**, you need to copy the other critical
 └── index.html
 ```
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Para economizar seu tempo e para evitar que você perca alguns arquivos ao copiar, extraímos esses arquivos/configurações da versão mais recente do tema **Chirpy** e do fluxo de trabalho [CD][CD] para cá, para que você possa começar a escrever em minutos.
 
-## Prerequisites
+## Pré-requisitos
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+Este site usa a linguagem Ruby para renderizar as páginas em Markdown para HTML, o Bundler como gerenciador de dependencias da linguagem Ruby, também usa o modelo Jekyll personalizado com [Chirpy][use-template].
 
-## Installation
+Siga as instruções nos [Documentos Jekyll][jeckylldocs] para completar a instalação de `Ruby`, `RubyGems`, `Jekyll` e `Bundler`.
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+Caso necessite de uma versão anterior do Ruby para executar essa versão do Jekyll, utilize um gerenciador de versões, como o [rbenv][rbenv], com ele podemos trocar para versões anteriores para evitar problemas de compatibilidade.
 
-Then clone it to your local machine and run:
+## Instalação
 
+[**Use este modelo**][use-template] para gerar um novo repositório e nomeie-o `<GH_USERNAME>.github.io`, onde `GH_USERNAME` representa seu nome de usuário no GitHub.
+
+Depois clone-o para sua máquina local e execute:
+
+```shell
+bundle
 ```
-$ bundle
+
+Para executar o servidor local execute:
+
+```shell
+bbundle exec jekyll serve
 ```
 
-## Usage
+A página será exibida no navegador com o link:
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+<http://127.0.0.1:4000/>
 
-## License
+## Uso
 
-This work is published under [MIT][mit] License.
+Por favor, veja a [documentação do tema](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## Licença
+
+Este trabalho é publicado sob a Licença [MIT][mit].
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[CD]: https://pt.wikipedia.org/wiki/Implanta%C3%A7%C3%A3o_cont%C3%ADnua
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[rbenv]: https://gist.github.com/jocile/8c4d27d6aa283dda1774f149bc03d42d
+[jeckylldocs]: https://jekyllrb.com/docs/installation/
